@@ -1,0 +1,1 @@
+# OlfactoryModule: PN → KC sparse layer
