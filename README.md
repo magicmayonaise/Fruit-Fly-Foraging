@@ -1,6 +1,6 @@
 # Olfactory Circuit Model (Drosophila)
 
-This package simulates a simplified olfactory circuit using PyTorch and NetworkX.
+Foraging simulation constrained by connectome neurobiology of an olfactory circuit using PyTorch and NetworkX.
 
 ## Components
 - AL_PN → LH → MB_KC pathway (cholinergic)
